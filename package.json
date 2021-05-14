@@ -1,0 +1,22 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "gromet-hook-form": "0.1.28",
+    "grommet": "2.17.2",
+    "next": "latest",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "description": "A \"Hello World\" application with multiple pages that shows how Next.js routing works."
+}
